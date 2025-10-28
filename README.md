@@ -1,18 +1,18 @@
-## Getting Started
+# 🧠 Chess Project Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto de implementação de um jogo de xadrez em Java, com foco em lógica de movimentação das peças, regras do jogo e interface gráfica simples para interação.
 
-## Folder Structure
+## 📌 Funcionalidades
 
-The workspace contains two folders by default, where:
+- Representação do tabuleiro de xadrez
+- Movimentação válida das peças
+- Detecção de xeque e xeque-mate
+- Alternância de turnos entre jogadores
+- Interface gráfica (em desenvolvimento)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Java SE**
+- **POO (Programação Orientada a Objetos)**
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📁 Estrutura do Projeto

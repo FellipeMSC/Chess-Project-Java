@@ -15,4 +15,3 @@ Este é um projeto de implementação de um jogo de xadrez em Java, com foco em 
 - **Java SE**
 - **POO (Programação Orientada a Objetos)**
 
-## 📁 Estrutura do Projeto
